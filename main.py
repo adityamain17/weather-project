@@ -27,5 +27,5 @@ if response.status_code == 200:
     print("────────────────────────────")
     print("✅ Thank You for Visiting! ☀️\n")
 else:
-    print("\ Failed to fetch weather data.")
+    print("Failed to fetch weather data.")
     print("Please check your city name or API key.\n")
